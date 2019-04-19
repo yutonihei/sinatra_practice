@@ -1,3 +1,4 @@
 #途中ファイルは無視する
 *~
 .DS_Store
+vendor
